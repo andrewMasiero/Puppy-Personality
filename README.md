@@ -1,7 +1,13 @@
 # Puppy-Personality
 DESCRIPTION
-Website demonstrating fundamental skills in HTML, CSS, and JavaScript.
-Select a a picture from each group to reveal a description of your personality.
-Quiz can be reset without loading the page with the reset button at the bottom.
+Web application demonstrating fundamental skills in HTML, CSS, and JavaScript.
 
-More details coming...
+Web Application Project, Southern Illinois University Edwardsville, Edwardsville, IL
+Pick-a-Puppy Personality Quiz
+Web application that allows user to select puppies to learn about their personality.
+User selects puppies; then a message appears based on those selections.
+  Individual project.
+  Used HTML, CSS, and JavaScript
+  Layout, sizing, coloring, grouping, and spacing of boxes and pictures.
+  Pictures and checkboxes change according to user input.
+  Reset button allows user to start over.
